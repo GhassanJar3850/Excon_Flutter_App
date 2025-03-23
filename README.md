@@ -32,31 +32,36 @@ This project was my **first semi-serious university Flutter application**, devel
 ## IV. Screenshots
 ### Dark Mode
 <div align="center">
-  <img src="screenshots/dark/initial.png" width="300">
-  <img src="screenshots/dark/login.png" width="300">
-  <img src="screenshots/dark/signup expert.png" width="300">
-  <img src="screenshots/dark/signup user.png" width="300">
-  <img src="screenshots/dark/explore.png" width="300">
-  <img src="screenshots/dark/expert profile.png" width="300">
-  <img src="screenshots/dark/profile info.png" width="300">
-  <img src="screenshots/dark/profile schedule.png" width="300">
-  <img src="screenshots/dark/settings.png" width="300">
-  <img src="screenshots/dark/chat screen.png" width="300">
+  <img src="screenshots/dark/initial.png" width="300" style="margin: 50px;">
+  <img src="screenshots/dark/login.png" width="300" style="margin: 50px;">
+  <img src="screenshots/dark/signup expert.png" width="300" style="margin: 50px;">
+  <img src="screenshots/dark/signup user.png" width="300" style="margin: 50px;">
+  <br>
+  <img src="screenshots/dark/explore.png" width="300" style="margin: 50px;">
+  <img src="screenshots/dark/expert profile.png" width="300" style="margin: 50px;">
+  <img src="screenshots/dark/profile info.png" width="300" style="margin: 50px;">
+  <img src="screenshots/dark/profile schedule.png" width="300" style="margin: 50px;">
+  <br>
+  <img src="screenshots/dark/settings.png" width="300" style="margin: 50px;">
+  <img src="screenshots/dark/chat screen.png" width="300" style="margin: 50px;">
 </div>
 
 ### Light Mode
 <div align="center">
-  <img src="screenshots/light/initial.png" width="300">
-  <img src="screenshots/light/login.png" width="300">
-  <img src="screenshots/light/signup expert.png" width="300">
-  <img src="screenshots/light/signup user.png" width="300">
-  <img src="screenshots/light/explore.png" width="300">
-  <img src="screenshots/light/expert profile.png" width="300">
-  <img src="screenshots/light/profile info.png" width="300">
-  <img src="screenshots/light/profile schedule.png" width="300">
-  <img src="screenshots/light/settings.png" width="300">
-  <img src="screenshots/light/chat screen.png" width="300">
+  <img src="screenshots/light/initial.png" width="300" style="margin: 50px;">
+  <img src="screenshots/light/login.png" width="300" style="margin: 50px;">
+  <img src="screenshots/light/signup expert.png" width="300" style="margin: 50px;">
+  <img src="screenshots/light/signup user.png" width="300" style="margin: 50px;">
+  <br>
+  <img src="screenshots/light/explore.png" width="300" style="margin: 50px;">
+  <img src="screenshots/light/expert profile.png" width="300" style="margin: 50px;">
+  <img src="screenshots/light/profile info.png" width="300" style="margin: 50px;">
+  <img src="screenshots/light/profile schedule.png" width="300" style="margin: 50px;">
+  <br>
+  <img src="screenshots/light/settings.png" width="300" style="margin: 50px;">
+  <img src="screenshots/light/chat screen.png" width="300" style="margin: 50px;">
 </div>
+
 
 
 ---
