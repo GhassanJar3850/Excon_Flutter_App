@@ -30,15 +30,40 @@ This project was my **first semi-serious university Flutter application**, devel
 ---
 
 ## IV. Screenshots
-(Add screenshots of the UI here)
+<div align="center">
+  <img src="screenshots/dark/chat screen.png" width="200">
+  <img src="screenshots/dark/expert profile.png" width="200">
+  <img src="screenshots/dark/explore.png" width="200">
+  <img src="screenshots/dark/initial.png" width="200">
+  <img src="screenshots/dark/login.png" width="200">
+  <img src="screenshots/dark/profile info.png" width="200">
+  <img src="screenshots/dark/profile schedule.png" width="200">
+  <img src="screenshots/dark/settings.png" width="200">
+  <img src="screenshots/dark/signup expert.png" width="200">
+  <img src="screenshots/dark/signup user.png" width="200">
+</div>
+
+<div align="center">
+  <img src="screenshots/light/chat screen.png" width="200">
+  <img src="screenshots/light/expert profile.png" width="200">
+  <img src="screenshots/light/explore.png" width="200">
+  <img src="screenshots/light/initial.png" width="200">
+  <img src="screenshots/light/login.png" width="200">
+  <img src="screenshots/light/profile info.png" width="200">
+  <img src="screenshots/light/profile schedule.png" width="200">
+  <img src="screenshots/light/settings.png" width="200">
+  <img src="screenshots/light/signup expert.png" width="200">
+  <img src="screenshots/light/signup user.png" width="200">
+</div>
+
 
 ---
 
 ## V. Installation & Setup
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/EXcon.git
-   cd EXcon
+   git clone https://github.com/GhassanJar3850/Excon_Flutter_App.git
+   cd Excon
    ```
 2. **Install dependencies**:
    ```sh
