@@ -99,11 +99,11 @@ This project was my **first semi-serious university Flutter application**, devel
 
 ---
 
-## VIII. License
-This project is licensed under the **MIT License**.
+## VIII. Contributors
+I welcome contributions! Feel free to **fork the repo** and submit pull requests to improve the app.
 
 ---
 
-## IX. Contributors
-I welcome contributions! Feel free to **fork the repo** and submit pull requests to improve the app.
+## 📜 License
+This project is licensed under the **MIT License**.
 
