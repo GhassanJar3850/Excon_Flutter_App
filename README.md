@@ -30,6 +30,7 @@ This project was my **first semi-serious university Flutter application**, devel
 ---
 
 ## IV. Screenshots
+### Dark Mode
 <div align="center">
   <img src="screenshots/dark/chat screen.png" width="400">
   <img src="screenshots/dark/expert profile.png" width="400">
@@ -43,6 +44,7 @@ This project was my **first semi-serious university Flutter application**, devel
   <img src="screenshots/dark/signup user.png" width="400">
 </div>
 
+### Light Mode
 <div align="center">
   <img src="screenshots/light/chat screen.png" width="400">
   <img src="screenshots/light/expert profile.png" width="400">
